@@ -1,2 +1,8 @@
-Olá
-como vai ??# L3S1NSCKY
+Boas vindas ao meu perfil 💙💙
+Meu nome é suellen lesinscky
+
+Estou estudando na Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+Você pode entrar em contato comigo 📫
+slesinscky.silva@gmail.com
